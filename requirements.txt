@@ -1,0 +1,3 @@
+cross_viral_work/
+__pycache__/
+*.pyc
